@@ -7,7 +7,108 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 22 Jun 2025 13:23:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 Jun 2025 14:47:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>题材股交易技术</title>
+        <link>http://localhost:1313/p/%E9%A2%98%E6%9D%90%E8%82%A1%E4%BA%A4%E6%98%93%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Mon, 23 Jun 2025 14:47:43 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E9%A2%98%E6%9D%90%E8%82%A1%E4%BA%A4%E6%98%93%E6%8A%80%E6%9C%AF/</guid>
+        <description>&lt;h2 id=&#34;如何区分题材退潮和洗盘&#34;&gt;如何区分题材退潮和洗盘
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;答案来自腾讯元宝&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;通过市场情绪与题材阶段判断&#34;&gt;通过市场情绪与题材阶段判断
+&lt;/h3&gt;&lt;p&gt;​
+1.题材周期定位​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;​洗盘​：通常发生在主升浪中后期或平台整理阶段，个股调整但板块内仍有补涨或新龙头接力。&lt;/li&gt;
+&lt;li&gt;​退潮​：出现在题材炒作末期，表现为龙头股高位横盘后破位下跌，板块内高位股集体补跌，资金转向低位题材或离场。&lt;/li&gt;
+&lt;li&gt;关键信号​：
+&lt;ul&gt;
+&lt;li&gt;洗盘：龙头股调整后快速修复，板块内仍有连板股支撑情绪。&lt;/li&gt;
+&lt;li&gt;退潮：龙头股持续大跌，板块涨停家数骤减，市场高度板降至3板以下。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.​资金切换逻辑​&lt;/p&gt;
+&lt;p&gt;洗盘时资金可能高低切至同一题材内低位股；退潮期资金则完全撤离题材，转向新方向。
+例如，机器人题材退潮后，资金转向固态电池等低位板块。&lt;/p&gt;
+&lt;h3 id=&#34;量价关系与成交量的对比&#34;&gt;量价关系与成交量的对比​
+&lt;/h3&gt;&lt;p&gt;​
+1.成交量变化​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;​洗盘​：
+&lt;ul&gt;
+&lt;li&gt;下跌时缩量（缩量30%-50%），反弹时放量（增量150%以上）。&lt;/li&gt;
+&lt;li&gt;筹码分布底部稳定，获利盘比例短期骤降但未持续萎缩。
+​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;退潮​：
+&lt;ul&gt;
+&lt;li&gt;下跌时放量（增量20%-100%），反弹时缩量（不足前期60%）。&lt;/li&gt;
+&lt;li&gt;底部筹码逐渐上移，高位套牢盘增加，换手率持续下降。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.​量价背离特征​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;洗盘可能出现“价跌量缩→价升量增”的良性循环，而退潮常伴随“价平量增→价跌量缩”的死亡组合。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技术形态与k线信号&#34;&gt;技术形态与K线信号​
+&lt;/h3&gt;&lt;p&gt;1.​K线形态差异​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;​洗盘​：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;假破位形态（如长下影线、V型反转），均线系统保持多头排列。&lt;/li&gt;
+&lt;li&gt;分时图剧烈震荡（如15分钟内急跌5%后V型反转）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;退潮​：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;真实破位（跌破关键支撑位），均线系统空头发散。&lt;/li&gt;
+&lt;li&gt;分时图阶梯式下跌，尾盘诱多拉升后次日继续下跌。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.​时间与空间维度​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;洗盘调整时间较短（数日至一周），跌幅多为前期涨幅的0.382-0.5倍；&lt;/li&gt;
+&lt;li&gt;退潮期调整时间长，跌幅超过50%且无有效支撑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;资金流向与市场环境验证&#34;&gt;资金流向与市场环境验证​
+&lt;/h3&gt;&lt;p&gt;​1.主力资金动向​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;洗盘时北向资金或机构可能逆势加仓，龙虎榜显示机构净买入。&lt;/li&gt;
+&lt;li&gt;退潮期资金持续净流出，游资频繁更替买卖席位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.​与大盘/板块共振​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;洗盘期个股表现强于板块指数（如宁德时代调整时跌幅小于新能源指数）。&lt;/li&gt;
+&lt;li&gt;退潮期个股跌幅远超行业平均，甚至脱离利好消息刺激。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;典型案例对比&#34;&gt;典型案例对比​
+&lt;/h3&gt;&lt;p&gt;1.​洗盘案例​：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;宁德时代（2023年3月）：单日暴跌7.2%后次日创新高，缩量下跌后放量反弹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;阳光电源（2023年4月）：下跌阶段缩量42%，反弹时量能激增218%。
+​
+2.退潮案例​：&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;药明康德（2024年2月）：连续14日阴跌，累计跌幅22%，反弹量能不足前期60%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机器人板块（2025年）：龙头长盛轴承见顶后，补涨股信隆健康等集体熄火，板块进入退潮&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>2025-06-22 周复盘</title>
         <link>http://localhost:1313/p/2025-06-22-%E5%91%A8%E5%A4%8D%E7%9B%98/</link>
         <pubDate>Sun, 22 Jun 2025 13:23:16 +0800</pubDate>
@@ -60,8 +161,7 @@ alt=&#34;图片描述&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;京运通&lt;/strong&gt;：光伏硅片+稀土永磁+半导体设备+金刚石炉+电力&lt;/p&gt;
 &lt;h2 id=&#34;盘后心得&#34;&gt;盘后心得
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;[!note]
-1.题材强度只做跟随，不要相信自己的猜测。
+&lt;p&gt;1.题材强度只做跟随，不要相信自己的猜测。&lt;br&gt;
 2.做强不做弱，强的给了机会没进去，弱的给机会千万不要进。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;腾讯短剧&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.开盘腾讯短剧相关股均弱势，百纳千成低开，冲高后迅速下跌，慈文传媒高开冲击涨停后迅速回落。此时&lt;strong&gt;应该警觉百纳千成的走弱，不应该建仓。&lt;/strong&gt;&lt;br&gt;
